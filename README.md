@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Hareekshith
-- 👀 I’m interested in gui coding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Hareekshith/Hareekshith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+def myLife(){
+  age = print("just a num")
+  grade = 'better not to tell lol'
+  interests = [python, cubing, annoying]
+  languages_learnt = tuples(Java, JS, C++, Python(Currently learning))
+  print("I only remember Java now and python")
+}
