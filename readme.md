@@ -1,53 +1,66 @@
+# ⚙️ System Online: Welcome, I'm Hareekshith
 
+<<<<<<< HEAD
 # 🧠 Brain: ON | 🔐 Firewall: Active | 👋 Meet Hareekshith  
+=======
+> 🧑‍💻 Code. Break. Build. Repeat.
+>>>>>>> 8e402b2 (Update....)
 
-I'm a passionate developer who loves building useful and impactful software. I'm also a CyberSecurity novice, learning the fundamentals of how things work!  
-
----
-
-## 🚀 About Me  
-
-- 🎓 *CyberSecurity student at VITC University*  
-- 💼 Currently working on my **portfolio website**  
-- 🌱 Always learning and exploring new things — diving into **Web3, AI, DevOps, OSINT, CTFs, Bruteforcing, etc.**  
-- 💬 Ask me about **C++, Python, CyberSecurity, Git**, or anything tech-related!  
-- 🛠️ Tools I use regularly: `Neovim`, `Git`, `GitHub`, `C++`, `Python`  
+I’m a passionate developer and cybersecurity enthusiast, reverse-engineering how things work and building useful, impactful tools along the way. Currently decoding the world of Web3, OSINT, DevOps, and more...
 
 ---
 
-## 🧰 Tech Stack  
+## 🧬 About Me
 
-![Tech Stack](https://skillicons.dev/icons?i=arch,neovim,html,css,js,react,python,mongodb,git,github)  
+- 🛡️ CyberSecurity student @ **VITC University**
+- 🧪 Experimenting with: `Web3`, `AI`, `OSINT`, `CTFs`, `Bruteforcing`, `DevOps`
+- 👨‍💻 Hardcore into: `C++`, `Python`, `Linux`, `Git`, and breaking things (legally 😏)
+- 🛠️ Preferred loadout: `Neovim`, `Arch`, `GitHub`, `Bash`, `Python`
+- 🌐 Actively building: **My Portfolio Website**
 
 ---
 
-## 📈 GitHub Stats  
+## ⚒️ My Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=arch,neovim,html,css,js,react,python,mongodb,git,github)
+
+---
+
+## 📈 GitHub Intel
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hareekshith&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hareekshith&theme=radical" width="48%" />
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Hareekshith&show_icons=true&theme=tokyo-night&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hareekshith&theme=tokyo-night" width="48%" alt="GitHub Streak" />
+</p>
 
-### 🏆 GitHub Trophies  
+---
+
+### 📊 Most Used Languages
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hareekshith&theme=radical&no-bg=true&no-frame=true" />
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hareekshith&layout=compact&theme=tokyo-night&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
-## 🗂️ Featured Projects  
+### 🏆 Trophies Unlocked
 
-Here are some cool things I've built or contributed to:  
-
-- 🔗 [**Keylogger Detector**](https://github.com/Hareekshith/keylogger-detection) – *Detects keyloggers on your Linux system!*  
-- 🔗 [**TEED-TS-WEB**](https://github.com/ERROR-SIDDH/TEED-TS-WEB) – *A smooth entry-exit tracking system combining full-stack web development and hardware!*  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hareekshith&theme=tokyo-night&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
 
 ---
 
-## 📫 Get in Touch  
+## 🧠 Featured Builds
 
-- **LinkedIn**: [Hareekshith](https://www.linkedin.com/in/hareekshith-as-276663313/)
-- **Email**: `hareekshith@gmail.com`  
+- 🔍 [**Keylogger Detector**](https://github.com/Hareekshith/keylogger-detection) — Detects Linux keyloggers using behavioral patterns
+- 🛰️ [**TEED-TS-WEB**](https://github.com/ERROR-SIDDH/TEED-TS-WEB) — Full-stack + hardware system for seamless entry-exit tracking
 
-Let's connect and build something awesome together! 🚀  
+---
 
+## 🔗 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hareekshith-as-276663313/)
+- 📧 `hareekshith@gmail.com`
+
+> “The quieter you become, the more you can hear.”  
