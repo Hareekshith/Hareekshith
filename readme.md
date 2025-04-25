@@ -1,5 +1,5 @@
 
-# 👋 Hey there! I'm Hareekshith  
+# 🧠 Brain: ON | 🔐 Firewall: Active | 👋 Meet Hareekshith  
 
 I'm a passionate developer who loves building useful and impactful software. I'm also a CyberSecurity novice, learning the fundamentals of how things work!  
 
