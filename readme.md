@@ -1,10 +1,6 @@
 # ⚙️ System Online: Welcome, I'm Hareekshith
 
-<<<<<<< HEAD
-# 🧠 Brain: ON | 🔐 Firewall: Active | 👋 Meet Hareekshith  
-=======
 > 🧑‍💻 Code. Break. Build. Repeat.
->>>>>>> 8e402b2 (Update....)
 
 I’m a passionate developer and cybersecurity enthusiast, reverse-engineering how things work and building useful, impactful tools along the way. Currently decoding the world of Web3, OSINT, DevOps, and more...
 
@@ -29,8 +25,8 @@ I’m a passionate developer and cybersecurity enthusiast, reverse-engineering h
 ## 📈 GitHub Intel
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hareekshith&show_icons=true&theme=tokyo-night&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hareekshith&theme=tokyo-night" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hareekshith&show_icons=true&theme=radical&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hareekshith&theme=radical" width="48%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -38,7 +34,7 @@ I’m a passionate developer and cybersecurity enthusiast, reverse-engineering h
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hareekshith&layout=compact&theme=tokyo-night&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hareekshith&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -46,7 +42,7 @@ I’m a passionate developer and cybersecurity enthusiast, reverse-engineering h
 ### 🏆 Trophies Unlocked
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hareekshith&theme=tokyo-night&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hareekshith&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
