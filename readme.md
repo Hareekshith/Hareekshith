@@ -18,7 +18,7 @@ I’m a passionate developer and cybersecurity enthusiast, reverse-engineering h
 
 ## ⚒️ My Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=arch,neovim,html,css,js,react,python,mongodb,git,github)
+![Tech Stack](https://skillicons.dev/icons?i=arch,neovim,html,css,js,react,django,python,mongodb,git,github)
 
 ---
 
