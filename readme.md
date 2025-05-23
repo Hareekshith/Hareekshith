@@ -12,7 +12,7 @@ I’m a passionate developer and cybersecurity enthusiast, reverse-engineering h
 - 🧪 Experimenting with: `Web3`, `AI`, `OSINT`, `CTFs`, `Bruteforcing`, `DevOps`
 - 👨‍💻 Hardcore into: `C++`, `Python`, `Linux`, `Git`, and breaking things (legally 😏)
 - 🛠️ Preferred loadout: `Neovim`, `Arch`, `GitHub`, `Bash`, `Python`
-- 🌐 Actively building: **My Portfolio Website**
+- 🌐 Actively fixing: **Keylogger Detector**
 
 ---
 
